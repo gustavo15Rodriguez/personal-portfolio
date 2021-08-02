@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gustavo15Rodriguez/personal-portfolio/static/css/main.46b4a351.chunk.css",
+    "main.js": "/gustavo15Rodriguez/personal-portfolio/static/js/main.f96fa569.chunk.js",
+    "main.js.map": "/gustavo15Rodriguez/personal-portfolio/static/js/main.f96fa569.chunk.js.map",
+    "runtime-main.js": "/gustavo15Rodriguez/personal-portfolio/static/js/runtime-main.82b137b2.js",
+    "runtime-main.js.map": "/gustavo15Rodriguez/personal-portfolio/static/js/runtime-main.82b137b2.js.map",
+    "static/js/2.ee02a27f.chunk.js": "/gustavo15Rodriguez/personal-portfolio/static/js/2.ee02a27f.chunk.js",
+    "static/js/2.ee02a27f.chunk.js.map": "/gustavo15Rodriguez/personal-portfolio/static/js/2.ee02a27f.chunk.js.map",
+    "static/js/3.6d59d5ae.chunk.js": "/gustavo15Rodriguez/personal-portfolio/static/js/3.6d59d5ae.chunk.js",
+    "static/js/3.6d59d5ae.chunk.js.map": "/gustavo15Rodriguez/personal-portfolio/static/js/3.6d59d5ae.chunk.js.map",
+    "index.html": "/gustavo15Rodriguez/personal-portfolio/index.html",
+    "static/css/main.46b4a351.chunk.css.map": "/gustavo15Rodriguez/personal-portfolio/static/css/main.46b4a351.chunk.css.map",
+    "static/js/2.ee02a27f.chunk.js.LICENSE.txt": "/gustavo15Rodriguez/personal-portfolio/static/js/2.ee02a27f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b137b2.js",
+    "static/js/2.ee02a27f.chunk.js",
+    "static/css/main.46b4a351.chunk.css",
+    "static/js/main.f96fa569.chunk.js"
+  ]
+}
