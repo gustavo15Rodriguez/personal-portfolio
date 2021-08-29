@@ -11,7 +11,7 @@ const About = () =>  {
                     <h5>About</h5>
                     <h1>Let me introduce myself.</h1>
                     <div className="intro-info">
-                        <img src="/assets/images/profile.jpg" alt="Profile" />
+                        <img src="/personal-portfolio/assets/images/profile.jpg" alt="Profile" />
                         <p className="lead">
                             I am a student of analysis and development of systems e information. 
                             I love the programming. I like to learn every day more. 

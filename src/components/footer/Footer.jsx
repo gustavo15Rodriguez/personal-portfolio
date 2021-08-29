@@ -28,7 +28,7 @@ const Footer = () => {
                     <div className="copyright">
                         <span>© Copyright Kards 2016.</span> 
                         <span>
-                            Design by 
+                            Design by&nbsp;
                             <a 
                                 href="http://www.styleshout.com/" 
                                 target="_blank" 

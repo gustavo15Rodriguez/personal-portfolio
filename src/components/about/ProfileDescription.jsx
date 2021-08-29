@@ -20,11 +20,11 @@ const ProfileDescription = () => {
                 </li>
                 <li>
                     <strong>Job:</strong>
-                    <span>Web Develpment</span>
+                    <span>Development Analyst</span>
                 </li>
                 <li>
-                    <strong>Website:</strong>
-                    <span>www.kardswebsite.com</span>
+                    <strong>GitHub Page:</strong>
+                    <span>https://github.com/gustavo15Rodriguez</span>
                 </li>
                 <li>
                     <strong>Email:</strong>

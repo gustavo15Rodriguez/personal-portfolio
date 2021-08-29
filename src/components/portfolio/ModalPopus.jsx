@@ -6,7 +6,7 @@ const ModalPopus = () => {
         <Fragment>
             <div id="modal-01" className="popup-modal slider mfp-hide">	
                 <div className="media">
-                    <img src="/assets/images/portfolio/pharmacy.jpg" alt="Pharmacy" />
+                    <img src="/personal-portfolio/assets/images/portfolio/pharmacy.jpg" alt="Pharmacy" />
                 </div>   
 
                 <div className="description-box">
@@ -31,7 +31,7 @@ const ModalPopus = () => {
 
             <div id="modal-02" className="popup-modal slider mfp-hide">	
                 <div className="media">
-                    <img src="/assets/images/portfolio/the_order.jpg" alt="The Order" />
+                    <img src="/personal-portfolio/assets/images/portfolio/the_order.jpg" alt="The Order" />
                 </div>    
 
                 <div className="description-box">
@@ -57,7 +57,7 @@ const ModalPopus = () => {
 
             <div id="modal-03" className="popup-modal slider mfp-hide">	
                 <div className="media">
-                    <img src="/assets/images/portfolio/soft_clients.jpg" alt="Soft Clients" />
+                    <img src="/personal-portfolio/assets/images/portfolio/soft_clients.jpg" alt="Soft Clients" />
                 </div>     
 
                 <div className="description-box">
@@ -83,7 +83,7 @@ const ModalPopus = () => {
 
             <div id="modal-04" className="popup-modal slider mfp-hide">	
                 <div className="media">
-                    <img src="/assets/images/portfolio/gitchangelog.jpg" alt="Gitchangelog" />
+                    <img src="/personal-portfolio/assets/images/portfolio/gitchangelog.jpg" alt="Gitchangelog" />
                 </div>    
 
                 <div className="description-box">
@@ -109,7 +109,7 @@ const ModalPopus = () => {
 
             <div id="modal-05" className="popup-modal slider mfp-hide">	
                 <div className="media">
-                    <img src="/assets/images/portfolio/military_service.jpg" alt="Military Service" />
+                    <img src="/personal-portfolio/assets/images/portfolio/military_service.jpg" alt="Military Service" />
                 </div>   
 
                 <div className="description-box">
@@ -135,7 +135,7 @@ const ModalPopus = () => {
 
             <div id="modal-06" className="popup-modal slider mfp-hide">	
                 <div className="media">
-                    <img src="/assets/images/portfolio/high_school.jpg" alt="High School" />
+                    <img src="/personal-portfolio/assets/images/portfolio/high_school.jpg" alt="High School" />
                 </div>      
 
                 <div className="description-box">

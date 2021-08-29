@@ -23,7 +23,7 @@ const PortfolioItem = () => {
         <Fragment>
             <div className="bgrid folio-item">
                 <div className="item-wrap">
-                    <img src="/assets/images/portfolio/pharmacy.jpg" alt="Pharmacy" />
+                    <img src="/personal-portfolio/assets/images/portfolio/pharmacy.jpg" alt="Pharmacy" />
                     <a href="#modal-01" className="overlay">	                  	           
                         <div className="folio-item-table">
                             <div className="folio-item-cell">
@@ -39,7 +39,7 @@ const PortfolioItem = () => {
 
             <div className="bgrid folio-item">
                 <div className="item-wrap">
-                    <img src="/assets/images/portfolio/the_order.jpg" alt="The Order" />
+                    <img src="/personal-portfolio/assets/images/portfolio/the_order.jpg" alt="The Order" />
                     <a href="#modal-02" className="overlay">              		                  
                         <div className="folio-item-table">
                             <div className="folio-item-cell">
@@ -55,7 +55,7 @@ const PortfolioItem = () => {
 
             <div className="bgrid folio-item">
                 <div className="item-wrap">
-                    <img src="/assets/images/portfolio/soft_clients.jpg" alt="Soft Clients" />
+                    <img src="/personal-portfolio/assets/images/portfolio/soft_clients.jpg" alt="Soft Clients" />
                     <a href="#modal-03" className="overlay">             		                  
                         <div className="folio-item-table">
                             <div className="folio-item-cell">
@@ -71,7 +71,7 @@ const PortfolioItem = () => {
 
             <div className="bgrid folio-item">
                 <div className="item-wrap">
-                    <img src="/assets/images/portfolio/gitchangelog.jpg" alt="Gitchangelog" />
+                    <img src="/personal-portfolio/assets/images/portfolio/gitchangelog.jpg" alt="Gitchangelog" />
                     <a href="#modal-04" className="overlay">                  	                 
                         <div className="folio-item-table">
                             <div className="folio-item-cell">
@@ -87,7 +87,7 @@ const PortfolioItem = () => {
 
             <div className="bgrid folio-item">
                 <div className="item-wrap">
-                    <img src="/assets/images/portfolio/military_service.jpg" alt="Military Service" />
+                    <img src="/personal-portfolio/assets/images/portfolio/military_service.jpg" alt="Military Service" />
                     <a href="#modal-05" className="overlay">             		                  
                         <div className="folio-item-table">
                             <div className="folio-item-cell">
@@ -103,7 +103,7 @@ const PortfolioItem = () => {
 
             <div className="bgrid folio-item">
                 <div className="item-wrap">
-                    <img src="/assets/images/portfolio/high_school.jpg" alt="High School" />
+                    <img src="/personal-portfolio/assets/images/portfolio/high_school.jpg" alt="High School" />
                     <a href="#modal-06" className="overlay">
                         <div className="folio-item-table">
                             <div className="folio-item-cell">
